@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+*.Rout
+*.png
+*.pdf
+*.rds
+*.log
+*.aux
+*.synctex.gz
+stuff/*
