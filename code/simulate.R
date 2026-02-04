@@ -1,4 +1,4 @@
-simdat <- function(n, sharex5, seed) {
+simulate <- function(n, sharex5, seed) {
   
   ## set seed
   set.seed(seed)
