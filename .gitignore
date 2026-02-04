@@ -11,3 +11,4 @@
 *.aux
 *.synctex.gz
 stuff/*
+data/*
